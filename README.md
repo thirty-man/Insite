@@ -20,10 +20,6 @@
 
 <hr/>
 
-### 꿀스라이팅
-
-- 방 참여 후 원하는 유저에게 글 쓰기
-- 개봉일이 되면, 받은 꿀단지 읽기
 
 ## 세부 기능
 
@@ -66,11 +62,11 @@
 
 ## 설치
 
-![포팅 메뉴얼](./exec/포팅 매뉴얼.docx) 참조
+[포팅 메뉴얼](./exec/포팅_메뉴얼.docx) 참조
 
 ## 사용 예시
 
-사용 예시는 ![Insite 시나리오](./exec/Insite_시연시나리오.pdf)를 참조하세요
+사용 예시는 [Insite 시나리오](./exec/Insite_시연시나리오.pdf)를 참조하세요
 
 
 ## 개발 설정
@@ -110,11 +106,11 @@ Distributed under the SGPL license. See [License](LICENSE) for more information.
 
 ## 사용 화면
 
-![마이페이지](./exec/images/insite-mypage-1.png){: width="40%"}
-![실시간페이지](./exec/images/insite-realtime-1.png){: width="40%"}
-![추적페이지](./exec/images/insite-flow-1.png){: width="40%"}
-![사용자페이지](./exec/images/insite-user-1.png){: width="40%"}
-![활동사용자페이지](./exec/images/insite-active-user-1.png){: width="40%"}
-![버튼페이지](./exec/images/insite-button-1.png){: width="40%"}
-![가이드페이지](./exec/images/insite-guide-1.png){: width="40%"}
+![마이페이지](./exec/images/insite-mypage-1.png)
+![실시간페이지](./exec/images/insite-realtime-1.png)
+![추적페이지](./exec/images/insite-flow-1.png)
+![사용자페이지](./exec/images/insite-user-1.png)
+![활동사용자페이지](./exec/images/insite-active-user-1.png)
+![버튼페이지](./exec/images/insite-button-1.png)
+![가이드페이지](./exec/images/insite-guide-1.png)
 

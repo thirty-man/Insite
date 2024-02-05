@@ -104,11 +104,11 @@ Distributed under the SGPL license. See [License](LICENSE) for more information.
 
 ## 사용 화면
 
-![마이페이지](./exec/images/insite-mypage-1.png){: width="40%"}
-![실시간페이지](./exec/images/insite-realtime-1.png){: width="40%"}
-![추적페이지](./exec/images/insite-flow-1.png){: width="40%"}
-![사용자페이지](./exec/images/insite-user-1.png){: width="40%"}
-![활동사용자페이지](./exec/images/insite-active-user-1.png){: width="40%"}
-![버튼페이지](./exec/images/insite-button-1.png){: width="40%"}
-![가이드페이지](./exec/images/insite-guide-1.png){: width="40%"}
+![마이페이지](./exec/images/insite-mypage-1.png)
+![실시간페이지](./exec/images/insite-realtime-1.png)
+![추적페이지](./exec/images/insite-flow-1.png)
+![사용자페이지](./exec/images/insite-user-1.png)
+![활동사용자페이지](./exec/images/insite-active-user-1.png)
+![버튼페이지](./exec/images/insite-button-1.png)
+![가이드페이지](./exec/images/insite-guide-1.png)
 

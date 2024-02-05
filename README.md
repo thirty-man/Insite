@@ -1,11 +1,10 @@
-# A701 Thirty(Insite - 꿀스라이팅)
+# A701 Thirty(Insite)
 
 ## Priview
 
 ![메인화면](./exec/images/insite-main.jpg)
 
-> 인사이트 : GA보다 사용하기 편리한 **웹사이트 분석 대시보드**<br/>
-꿀스라이팅: 개봉일을 정하고, 서로에게 편지를 쓰는 **롤링페이퍼** 사이트(+ 인사이트 분석 테스트 사이트)
+> Google Analytics보다 사용하기 편리한 **웹사이트 분석 대시보드**<br/>
 
 
 ## 주요 기능
@@ -19,7 +18,6 @@
 - 버튼 액션 파악 기능
 
 <hr/>
-
 
 ## 세부 기능
 
@@ -56,7 +54,7 @@
 
 ### 인사이트
 
-![인사이트_아키텍처](./exec/images/insite-architecture.png)
+![인사이트 아키텍처](./exec/images/insite-architecture.png)
 
 <hr/>
 

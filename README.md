@@ -60,7 +60,7 @@
 
 ### 인사이트
 
-![인사이트_아키텍처](./exec/images/insite-architecture.jpg)
+![인사이트_아키텍처](./exec/images/insite-architecture.png)
 
 <hr/>
 
@@ -70,7 +70,7 @@
 
 ## 사용 예시
 
-사용 예시는 ![Insite 시나리오](./exec/Insite_시연시나리오.pdf) / ![꿀스라이팅 시나리오](./exec/RollingHoney_시연_시나리오.pdf)를 참조하세요
+사용 예시는 ![Insite 시나리오](./exec/Insite_시연시나리오.pdf)를 참조하세요
 
 
 ## 개발 설정
@@ -110,11 +110,11 @@ Distributed under the SGPL license. See [License](LICENSE) for more information.
 
 ## 사용 화면
 
-![마이페이지](./exec/images/insite-mypage-1.jpg){: width="40%"}
-![실시간페이지](./exec/images/insite-realtime-1.jpg){: width="40%"}
-![추적페이지](./exec/images/insite-flow-1.jpg){: width="40%"}
-![사용자페이지](./exec/images/insite-user-1.jpg){: width="40%"}
-![활동사용자페이지](./exec/images/insite-active-user-1.jpg){: width="40%"}
-![버튼페이지](./exec/images/insite-button-1.jpg){: width="40%"}
-![가이드페이지](./exec/images/insite-guide-1.jpg){: width="40%"}
+![마이페이지](./exec/images/insite-mypage-1.png){: width="40%"}
+![실시간페이지](./exec/images/insite-realtime-1.png){: width="40%"}
+![추적페이지](./exec/images/insite-flow-1.png){: width="40%"}
+![사용자페이지](./exec/images/insite-user-1.png){: width="40%"}
+![활동사용자페이지](./exec/images/insite-active-user-1.png){: width="40%"}
+![버튼페이지](./exec/images/insite-button-1.png){: width="40%"}
+![가이드페이지](./exec/images/insite-guide-1.png){: width="40%"}
 
